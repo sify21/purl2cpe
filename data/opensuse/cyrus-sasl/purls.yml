@@ -6,3 +6,4 @@ purls:
   - pkg:golang/github.com/cyrusimap/cyrus-sasl
   - pkg:rpm/fedora/cyrus-sasl
   - pkg:rpm/opensuse/cyrus-sasl
+  - pkg:conan/cyrus-sasl
